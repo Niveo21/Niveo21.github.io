@@ -1,0 +1,24 @@
+.principal {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card {
+    margin-top: 10%;
+    background-color: rgb(70, 95, 116);
+    -webkit-box-shadow: 24px 10px 40px 7px rgba(0,0,0,0.72);
+-moz-box-shadow: 24px 10px 40px 7px rgba(0,0,0,0.72);
+box-shadow: 24px 10px 40px 7px rgba(0,0,0,0.72);
+}
+
+body{
+    background-image: url("/fondoblanco.jpg");
+}
+
+
+
+
+
+
